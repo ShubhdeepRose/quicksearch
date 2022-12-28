@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quicksearch/static/css/main.69b0ae33.css",
+    "main.js": "/quicksearch/static/js/main.e07dc3f4.js",
+    "index.html": "/quicksearch/index.html",
+    "main.69b0ae33.css.map": "/quicksearch/static/css/main.69b0ae33.css.map",
+    "main.e07dc3f4.js.map": "/quicksearch/static/js/main.e07dc3f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b0ae33.css",
+    "static/js/main.e07dc3f4.js"
+  ]
+}
